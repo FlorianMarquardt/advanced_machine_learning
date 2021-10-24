@@ -7,7 +7,7 @@ We will use python (the programming language) and tensorflow (the neural-network
 
 Free web platforms for python and tensorflow:
 
-If you do not want to bother with installing things, you can do everything online, by using Google Colab, https://colab.research.google.com/notebooks/welcome.ipynb, or Deepnote, https://deepnote.com/. Both of these platforms offer an online jupyter notebook environment where you can directly run python and tensorflow on their servers (including GPU support to some extent). You could download notebooks from here and then upload them into either of these platforms and play around.
+If you do not want to bother with installing things, you can do everything online, by using Google Colab, https://colab.research.google.com/notebooks/welcome.ipynb, or Deepnote, https://deepnote.com/. Both of these platforms offer an online jupyter notebook environment where you can directly run python and tensorflow on their servers (including GPU support to some extent). Deepnote is particularly nice if several people want to access the same calculation at the same time from different computers. You could download notebooks from here and then upload them into either of these platforms and play around.
 
 Local installation on your computer:
 

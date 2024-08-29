@@ -21,7 +21,7 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 
 jobs:
   # Build job
